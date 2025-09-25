@@ -1,7 +1,6 @@
 # `docs-as-code`
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](./LICENSE.md)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/docs-as-code/rust.yml?branch=main&style=flat-square)](https://github.com/your-username/docs-as-code/actions)
 
 Uma ferramenta de linha de comando (CLI) rápida, escrita em Rust, para listar e visualizar seus documentos Markdown diretamente no terminal.
 
@@ -40,7 +39,7 @@ Você precisará do toolchain do Rust instalado.
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/your-username/docs-as-code.git](https://github.com/your-username/docs-as-code.git)
+    git clone https://github.com/your-username/docs-as-code.git
     cd docs-as-code
     ```
 2.  Compile em modo de release (otimizado):
