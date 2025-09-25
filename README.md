@@ -24,10 +24,6 @@ $ docs-as-code list ./_docs
 
 * **Listagem em Tabela:** Apresenta um sumário claro de todos os documentos `.md` encontrados recursivamente.
 * **Visualização Rápida:** Renderiza o conteúdo de qualquer documento diretamente no terminal com formatação e cores.
-* **Extração Inteligente de Título:** Determina o título de um documento automaticamente, usando a seguinte prioridade:
-    1.  Metadados YAML (`title:`).
-    2.  Primeiro cabeçalho de Nível 1 (`# Título`).
-    3.  Nome do arquivo.
 * **Performático e Seguro:** Construído em Rust para garantir velocidade e confiabilidade.
 * **CLI Intuitiva:** Comandos e argumentos claros, com ajuda gerada automaticamente.
 
